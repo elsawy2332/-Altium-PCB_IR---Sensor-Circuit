@@ -1,0 +1,3 @@
+Change Component Comment : Designator=J1 Old Comment=3 New Comment=TSW-101-07-T-T
+Change Net Name : Old Net Name=NetRV1_2 New Net Name=NetLM358P_2
+Added Room: Name=IR sensor

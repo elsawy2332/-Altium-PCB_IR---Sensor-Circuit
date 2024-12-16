@@ -1,0 +1,4 @@
+Added Component: Designator=D0(Vishay_6.544-5185.02-4_MFG)
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=+5 Pin=D0-2
+Added Member To Class: ClassName=Sheet1 Member=Component D0 BPV10
